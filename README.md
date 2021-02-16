@@ -1,5 +1,6 @@
 # Intagram-desktop
-Recriação interface do login do  instagram para computador, usando conceito de FlexBox
+Recriação interface do login do  instagram para computador
+Tecnologia utilizadas: HTLL5 e CSS3- FlexBox
 <details>
     <summary><strong>Clica aqui para acessar a página </strong></summary>
     <br />
